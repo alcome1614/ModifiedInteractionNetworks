@@ -1,4 +1,4 @@
-from scene import *
+from files.scene import *
 
 ################################################################################
 #                                   MULTISCENE                                 #

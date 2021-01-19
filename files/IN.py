@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-from basemodel import *
+from files.basemodel import *
 
 
 ##########################CREATE_R_MTX##########################################
