@@ -2,3 +2,7 @@ data/central_force_0_train.pickle
 data/vicsek_0_train.pickle
 data/no_interaction_train.pickle
 *.test
+test/
+.ipynb_checkpoints
+files/__pycache__/
+
