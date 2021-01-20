@@ -3,6 +3,6 @@ data/vicsek_0_train.pickle
 data/no_interaction_train.pickle
 *.test
 test/
-.ipynb_checkpoints
+.ipynb_checkpoints/
 files/__pycache__/
 
